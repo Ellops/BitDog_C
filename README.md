@@ -1,2 +1,2 @@
 # BitDog_C
-Um repositório simples com as varias bibliotecas de software para o hardware bitdoglab
+Um repositório simples com varias bibliotecas de software para o hardware bitdoglab
